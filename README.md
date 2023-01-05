@@ -13,11 +13,11 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 * JavaScript
 
 # Credits
-Created by Jennifer Nguyen with the gracious help of TAs Wesley Tran and John Baxter.
-Starter code retrieved from https://github.com/coding-boot-camp/friendly-parakeet.
+Created by Phil Davis.
+Starter code retrieved from resources on slack.
 
 # Website
-https://njthanhtrang.github.io/3.-JavaScript-Challenge-Password-Generator/.
+TBC.
 
 # License
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
