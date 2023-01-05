@@ -20,6 +20,9 @@ Starter code retrieved from resources on slack.
 https://phil13131.github.io/M5_Password_Generator/
 
 # License
+MIT License
+ Copyright (c)  2023 Phil Davis
+
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 <img width="854" alt="Screen Shot 2021-02-21 at 5 57 19 PM" src="https://user-images.githubusercontent.com/77700824/108660657-e49b8c80-747f-11eb-8a35-4322a1a4ecd1.png">
