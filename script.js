@@ -12,7 +12,7 @@ function generatePassword() {
   var possibleCharacters = [];
 
   // get input and validate
-  numberOfCharacters = prompt("How many characters do you want in your password? Choose between 8-128 characters.");
+  numberOfCharacters = prompt("How many characters do you want in your password? Choose between 10 - 64 characters.");
   if (numberOfCharacters < 10 || numberOfCharacters > 64) {
     return "Please choose a valid number of characters.";
   } else if (isNaN(numberOfCharacters)) {
