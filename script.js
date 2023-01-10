@@ -1,7 +1,7 @@
 // Assignment code here
 //<!--
 //Author: Phil Davis 
-//Date: 05 January 2023
+//Date:  January 2023
 //Description: Password Generator utilising JavaScript & html & .CSS
 //-->
 function generatePassword() {
